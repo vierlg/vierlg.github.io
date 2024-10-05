@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vierlg.github.io/XdG/sitemap.XdG.gz
